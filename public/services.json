@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOST",
+        "price": 200,
+        "time": 2,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/GPGKt5j/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGMENT",
+        "price": 140,
+        "time": 1.5,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/4dJrWwH/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "BRAKE REPARING",
+        "price": 130,
+        "time": 3,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/hH6g4dg/10.jpg"
+    },
+    {
+        "id": 4,
+        "name": "JUWEL RANA",
+        "price": 150,
+        "time": 2.3,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/FYg0KHR/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "WASH AND GLASSING",
+        "price": 125,
+        "time": 1,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/Zh656sN/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "OIL CHANGEING",
+        "price": 164,
+        "time": 3,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/K6fjCWx/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "COMPLETE ANALYSIS",
+        "price": 172,
+        "time": 2,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/6ZF7yCw/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "REPLACE TIRE",
+        "price": 950,
+        "time": 4,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/Trgg6tF/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "JUWEL RANA",
+        "price": 412,
+        "time": 1.5,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/FxqpxFq/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "MODIFI TIRE",
+        "price": 111,
+        "time": 5,
+        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
+        "img": "https://i.ibb.co/BVhLgZg/3.jpg"
+    }
+]
