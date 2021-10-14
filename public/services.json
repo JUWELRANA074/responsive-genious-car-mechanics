@@ -70,13 +70,5 @@
         "time": 1.5,
         "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
         "img": "https://i.ibb.co/FxqpxFq/9.jpg"
-    },
-    {
-        "id": 10,
-        "name": "MODIFI TIRE",
-        "price": 111,
-        "time": 5,
-        "discription": "A machine shop is a room, building, or company where machining, a form of subtractive manufacturing, is done. In a machine shop, machinists use machine tools and cutting tools to make parts,",
-        "img": "https://i.ibb.co/BVhLgZg/3.jpg"
     }
 ]
